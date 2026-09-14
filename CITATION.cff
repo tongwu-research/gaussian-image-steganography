@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using this code."
+type: software
+title: "Gaussian Image Steganography via Parameter-Domain Keyed Embeddings"
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: Wu
+    given-names: Tong
+  - family-names: Cheng
+    given-names: Runze
+  - family-names: Fan
+    given-names: Xiaoyue
+  - family-names: Akşit
+    given-names: Kaan
